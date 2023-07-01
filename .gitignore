@@ -62,3 +62,4 @@ hs_err_pid*
 !/mvnw
 !/.mvn/
 !/mvnw.cmd
+!/src/main/java/com/desmond/.DS_Store
